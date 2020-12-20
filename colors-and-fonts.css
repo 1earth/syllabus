@@ -16,6 +16,10 @@ body {
 	background-color: #4C4C51;
 }
 
+.sidenav a {
+	color: #F0F0F5;
+}
+
 .sidenav a:visited {
 	color: #F0F0F5;
 }
